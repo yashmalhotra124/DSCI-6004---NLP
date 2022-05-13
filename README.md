@@ -46,5 +46,4 @@ As a classification problem for Tweet Sentiment Analysis, we used the evaluation
 ## Results
 
 Among the different models, Naive Bayes classifier achieved an overall accuracy score of 85%, Custom Bidirectional LSTM had an overall accuracy score of 93%, custom BERT had the highest accuracy of 94%. Both Parallel coordinates plot graph and Network graph indicates that cyberbullying is directed towards more than one criterion.
-![image](https://user-images.githubusercontent.com/58080257/168198884-931836a3-7bb2-4307-8eba-cf34de165333.png)
 
