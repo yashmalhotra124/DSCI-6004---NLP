@@ -35,7 +35,7 @@ b.	Bidirectional LSTM for sentiment classification – Top 20 most common words 
 
 c. BERT Transformer: original BERT model from Hugging Face library with additional Dense layers to perform the desired classification task. Create a custom BERT classifier class by adding the Dense layers to original BERT. Use a Linear Warmup Learning rate scheduler to reduce the volatility in the early stages of training. 
 
-## NETWORK GRAPHS
+## Network Graphs
 
 Create Parallel Coordinates Plot (PCP to analyze the pattens and relation between the different categories of cyberbullying. Create network graph to display relationships between elements (nodes) and to visualize clusters .
 
